@@ -26,7 +26,7 @@ The **News Application** provides a dynamic platform to fetch, display, and mana
 To clone and run this application, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/news-application-clean-architecture.git
+git clone https://github.com/rishithamenush/news_App.git
 cd news-application-clean-architecture
 flutter pub get
 flutter run
