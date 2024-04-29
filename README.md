@@ -27,7 +27,7 @@ To clone and run this application, follow these steps:
 
 ```bash
 git clone https://github.com/rishithamenush/news_App.git
-cd news-application-clean-architecture
+cd news_App
 flutter pub get
 flutter run
 ```
